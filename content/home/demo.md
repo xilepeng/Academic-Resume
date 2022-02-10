@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
+title = "How bad do you want it？"
 subtitle = ""
 
 [design]
@@ -30,7 +30,7 @@ subtitle = ""
   
   # Background image.
   image = "bg.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -40,7 +40,8 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  # padding = ["20px", "0", "20px", "0"]
+  padding = ["300px", "0", "300px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -50,6 +51,6 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 你会为热爱的事情做什么？How bad do you want it？
+## 👋 你会为热爱的事情做什么？
 
 "学会更高效地去安排自己的时间。知道什么时候累了，什么时候不能跟别人说话。"
