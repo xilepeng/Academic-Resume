@@ -41,6 +41,10 @@ feature:
   icon_pack: custom
   name: Git
   description: 80%
+- icon: gitlab
+  icon_pack: custom
+  name: Gitlab
+  description: 80%
 - icon: h5
   icon_pack: custom
   name: HTML5
