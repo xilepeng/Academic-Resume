@@ -31,6 +31,7 @@ education:
     - course: 计算机科学与技术 学士，GPA 3.59/4.0
       institution: 东北石油大学，中国，大庆
       year: 2019
+      schoolbadge: '/nepu.svg'
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
@@ -46,18 +47,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/xilepeng
-- icon: weixin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/xilepeng
+  - icon: weixin
+    icon_pack: fab
+    link: https://www.linkedin.com/
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
@@ -73,11 +74,16 @@ social:
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
+user_groups:
+  - Researchers
+  - Visitors
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lepengxi@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
