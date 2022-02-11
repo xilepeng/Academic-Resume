@@ -29,8 +29,8 @@ interests:
 education:
   courses:
     - course: 计算机科学与技术学士，GPA 3.59/4.0
-    institution: 东北石油大学，中国，大庆
-    year: 2019
+      institution: 东北石油大学，中国，大庆
+      year: 2019
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
