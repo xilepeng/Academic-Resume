@@ -31,7 +31,7 @@ education:
     - course: 计算机科学与技术 学士，GPA 3.59/4.0
       institution: 东北石油大学，中国，大庆
       year: 2019
-      schoolbadge: '/nepu.svg'
+      schoolbadge: /nepu.svg
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
