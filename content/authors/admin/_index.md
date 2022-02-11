@@ -6,7 +6,7 @@ title: 席乐朋
 superuser: true
 
 # Role/position/tagline
-role: 云原生方向研发工程师
+role: 云原生研发工程师
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -31,7 +31,7 @@ education:
     - course: 计算机科学与技术 学士，GPA 3.59/4.0
       institution: 东北石油大学，中国，大庆
       year: 2019
-      schoolbadge: /nepu.svg
+      schoolbadge: '/nepu.svg'
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012

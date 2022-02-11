@@ -1,8 +1,8 @@
 ---
-title: Example Project
+title: 分布式云存储系统
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
+- 云原生
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
