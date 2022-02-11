@@ -28,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 计算机科学与技术学士，GPA 3.59/4.0
+    - course: 计算机科学与技术 学士，GPA 3.59/4.0
       institution: 东北石油大学，中国，大庆
       year: 2019
   # - course: PhD in Artificial Intelligence
@@ -71,7 +71,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lepengxi@gmail.com"
