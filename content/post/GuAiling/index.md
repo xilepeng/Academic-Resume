@@ -33,7 +33,7 @@ image:
 
 authors:
 - admin
-- 谷爱凌
+
 
 tags:
 - 恐惧
