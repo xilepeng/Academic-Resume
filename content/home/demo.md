@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "你会为热爱的事情做什么？"
-subtitle = "付出我全部之所能"
+title = ""
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,9 +51,9 @@ subtitle = "付出我全部之所能"
  css_class = ""
 +++
 
-## 👋 "专注于事情本身就能让人感到快乐。"
+## 👋 你会为热爱的事情做什么？
 
-"学会更高效地去安排自己的时间。知道什么时候累了，什么时候不能跟别人说话。"
+
 
 
 

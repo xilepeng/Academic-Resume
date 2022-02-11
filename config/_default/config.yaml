@@ -3,8 +3,11 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 白热空间 # Website name
-# baseurl: 'https://xilepeng.netlify.app/' # Website URL
+# white hot space
+title: 席乐朋 # Website name
+
+
+baseurl: 'https://xilepeng.netlify.app/' # Website URL
 
 copyright: '© {2022} · 席乐朋' # Footer text, e.g. '© {year} Me'
 

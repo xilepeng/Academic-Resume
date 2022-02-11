@@ -37,7 +37,7 @@ authors:
 
 tags:
 - 心理学
-- 乔丹
+- 励志
 
 categories:
 - 心理学

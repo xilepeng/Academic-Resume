@@ -36,7 +36,7 @@ authors:
 
 tags:
 - 励志
-- 谷爱凌
+
 
 categories:
 - 心理学
