@@ -36,8 +36,8 @@ authors:
 
 
 tags:
-- 恐惧
-- 谷爱凌
+- 励志
+
 
 categories:
 - 心理学
