@@ -86,8 +86,10 @@ highlight_name: true
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+X 是一名专业的开发人员，现在专注于云原生。他对Go、C和网络编程有很强的了解。凭借这些技能，他在公司创建了相当多广泛使用的应用程序和框架。他还加入了一些组织，成为ACM/IEEE/IEEE-CS/CCF的专业会员。他在个人博客中写下了他对编程和技术的个人想法，该博客积累了755万光伏和426万紫外线。他活跃在Github上，Github世界明星排名149，世界追随者排名95。他喜欢算法和高级数学，在ACM-ICPC和高级数学竞赛中获得了奖牌。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+X 也是一名环球旅行者，在28岁之前环游世界，他的足迹很快就会覆盖七大洲（即将到来）。他是极限运动爱好者，如跳伞、滑雪、潜水、热气球、直升机。他总是愿意尝试新事物，并不断向它们学习。
+
+现在，他在Binance.com担任员工工程师。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
