@@ -54,7 +54,7 @@ A video within a page’s folder (e.g. content/post/hello/):
 {{< video src="my_video.mp4" controls="yes" >}} -->
 
 
-{{< video src="爱上恐惧.mp4" controls="yes" >}}
+{{< video src="my_video.mp4" controls="yes" >}}
 
 应《纽约时报》邀请，谷爱凌写下了她的恐惧观——她如何看待恐惧，如何应对恐惧，以及她希望如何战胜恐惧。
 谷爱凌只有18岁。生长于加利福尼亚的她，为母亲的祖国中国出征，有望在北京拿下自由式滑雪U型场地技巧赛、坡面障碍技巧赛和女子大跳台的三枚金牌。（本文中文版发表时，谷爱凌已经在女子大跳台比赛中获得冠军。——编注）
