@@ -1,6 +1,6 @@
 ---
 # Display name
-title: X 
+title: 加倍
 
 # Is this the primary user of the site?
 superuser: true
