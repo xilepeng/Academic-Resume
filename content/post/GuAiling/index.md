@@ -45,13 +45,7 @@ categories:
 ---
 
 
-<!-- A video from your static/media/ media library:
 
-{{< video library="true" src="my_video.mp4" controls="yes" >}}
-
-A video within a page’s folder (e.g. content/post/hello/):
-
-{{< video src="my_video.mp4" controls="yes" >}} -->
 
 
 
