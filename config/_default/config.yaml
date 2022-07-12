@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # white hot space
-title: 白热空间 # Website name
+title: 哇塞计划 # Website name
 
 
 baseurl: 'https://xilepeng.netlify.app/' # Website URL
