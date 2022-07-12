@@ -1,11 +1,6 @@
-
-
 ---
 title: 斯坦福大学成长型思维模式
-
 subtitle: 专注过程，而不是结果
-
-
 
 # Summary for listings and search engines
 summary: 生活在一个能激发进步，并让这一切变得可能的地方，就是每个孩子的权利。

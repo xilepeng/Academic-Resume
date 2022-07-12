@@ -1,25 +1,19 @@
-
-
 ---
 title: 斯坦福大学人生设计课
 subtitle: 你的“哇塞计划” 是什么？
-未来已经来临，只是尚未流行。这些人就生活在我的未来里，就在现在，他们现在做着我想做的事情，
-你想要变得幸运，缩小选择范围，这很简单，如果选择太多，你就进入心理学家所说的“选择超载”，然后你基本上没有选择，
-选择毁掉了自己感受到幸福的机会，放手继续前进，使决定不可逆。
-
 
 
 # Summary for listings and search engines
-summary: 
+summary: 未来已经来临，只是尚未流行。这些人就生活在我的未来里，就在现在，他们现在做着我想做的事情，你想要变得幸运，缩小选择范围，这很简单，如果选择太多，你就进入心理学家所说的“选择超载”，然后你基本上没有选择，选择毁掉了自己感受到幸福的机会，放手继续前进，使决定不可逆。
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2022-07-13T00:00:00Z"
+date: "2020-12-13T00:00:00Z"
 
 # Date updated
-lastmod: "2022-07-13T00:00:00Z"
+lastmod: "2020-12-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
